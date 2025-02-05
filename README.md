@@ -11,3 +11,5 @@
 *MENTOR*: VAISHALI 
 
 ##YOU HAVE TO ENTER DESCRIOTON OF YOUR TASK (AND IT SHOULD NOT BE LESS THAN 500 WORDS)
+
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/870a78dd-3233-4105-89ab-51a64cf37e81)
