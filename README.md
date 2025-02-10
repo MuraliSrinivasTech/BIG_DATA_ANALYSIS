@@ -10,6 +10,6 @@
 
 *MENTOR*: VAISHALI 
 
-##YOU HAVE TO ENTER DESCRIOTON OF YOUR TASK (AND IT SHOULD NOT BE LESS THAN 500 WORDS)
+##This project focuses on performing large-scale data analysis using PySpark or Dask to demonstrate the scalability of big data processing. The goal is to efficiently handle and analyze a massive dataset, extract meaningful insights, and showcase the capabilities of distributed computing frameworks.
 
 *OUTPUT*: ![Image](https://github.com/user-attachments/assets/870a78dd-3233-4105-89ab-51a64cf37e81)
